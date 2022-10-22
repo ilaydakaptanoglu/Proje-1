@@ -1,4 +1,4 @@
-# Proje-1  https://app.patika.dev/ilaydakaptanoglu
+# Proje-2  https://app.patika.dev/ilaydakaptanoglu
 MÜ-Kodluyoruz Yazılıma Giriş Programı Merge Sort Projesi
 
 [16,21,11,8,12,22] -> Merge Sort
